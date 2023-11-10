@@ -1,10 +1,10 @@
 # To_Do_List
 
+ToDo list is a simple web application to save Your daily tasks in order not to miss anything.
+
 A to-do list is just a list of things you have to-do.
 
 It is designed to help you stay organized and focus on your daily tasks.
-
-ToDo list is a simple web application to save Your daily tasks in order not to miss anything.
 
 
 ### Features
@@ -25,7 +25,7 @@ https://subhashkumar8574.github.io/To_Do_List/
 
 ## Screenshots
 
-After load page:
+Home page:
 ![App Screenshot](https://github.com/SubhashKumar8574/To_Do_List/assets/115339472/c0681c90-9c8c-4fcc-aec9-4fada73b01e7)
 
 After add the task:
